@@ -29,5 +29,3 @@ Banyak pemilik hewan peliharaan seperti kucing dan anjing yang membutuhkan layan
 ## 🌐 Bahasa
 
 Aplikasi mendukung Bahasa Indonesia dan Bahasa Inggris. Bahasa bisa diatur sesuai pengaturan awal aplikasi.
-
----
